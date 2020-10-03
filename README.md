@@ -7,7 +7,7 @@ This project is an implementation of the YOLOv3 object detection alogrithm using
 * PyTorch
 * NumPy
 * OpenCV
-* Pre-trained weights: https://pjreddie.com/media/files/yolov3.weights (leave in root folder with original name)
+* Pre-trained weights: https://pjreddie.com/media/files/yolov3.weights (put in data folder)
 
 ## Usage:
 
